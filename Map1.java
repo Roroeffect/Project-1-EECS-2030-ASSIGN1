@@ -5,7 +5,7 @@ public class Map1 {
 
 	/**
 	 * 
-	 * @author EECS2030 Team
+	 * 
 	 *
 	 */
 
