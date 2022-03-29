@@ -1,4 +1,4 @@
-# Project-1-EECS-2030-ASSIGN1
+# Project-1-EECS-2030
 INTRODUCTION
 ------------
 
